@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class BunnyController : MonoBehaviour {
 
@@ -24,5 +25,9 @@ public class BunnyController : MonoBehaviour {
         }
         // myAnim.SetFloat("vVelocity", Mathf.Abs(myRigidBody.velocity.y));
         myAnim.SetFloat("vVelocity", myRigidBody.velocity.y);
+    }
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        SceneManager.LoadScene( );
     }
 }

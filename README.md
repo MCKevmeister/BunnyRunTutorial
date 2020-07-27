@@ -16,7 +16,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 * [rabidgremlin](https://github.com/rabidgremlin/BunnyRunTut) and the video series he has made 
 * Watch the video tutorials here: https://www.youtube.com/playlist?list=PLvUqRm2B9RRBgJipfDmFR7sFhEwBn7aGT
-* Check out http://www.rabidgremlin.com/runbunnyrun/ for more information or
+* Check out http://www.rabidgremlin.com/runbunnyrun/ for more information
 * [Dr. Todd Cochrane]()
 * Ali Kahwaji
 * All of the teaching and administration staff at NMIT

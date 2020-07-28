@@ -15,7 +15,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * All of the teaching and administration staff at NMIT
 
 >      Laziness may appear attractive, but work gives satisfaction.
-
 >                             Anne Frank
 
 

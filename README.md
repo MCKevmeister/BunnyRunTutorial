@@ -1,6 +1,6 @@
 # Bunny Run Tutorial
 
-This is the source code for the "Run Bunny, Run!" creating a 2D game in Unity tutorial as suggested as a prerequistie from Dr. Todd Cochrane for SDV602.
+This is the source code for the "Run Bunny, Run!" creating a 2D game in Unity tutorial as suggested as a prerequistie for SDV602.
 
 ## License
 
@@ -11,10 +11,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [rabidgremlin](https://github.com/rabidgremlin/BunnyRunTut) and the video series he has made 
 * Watch the video tutorials here: https://www.youtube.com/playlist?list=PLvUqRm2B9RRBgJipfDmFR7sFhEwBn7aGT
 * Check out http://www.rabidgremlin.com/runbunnyrun/ for more information
-* [Dr. Todd Cochrane]()
-* All of the teaching and administration staff at NMIT
 
 >      Laziness may appear attractive, but work gives satisfaction.
 >                             Anne Frank
-
-
